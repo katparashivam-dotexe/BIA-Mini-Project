@@ -1,0 +1,12 @@
+check_name,issue_count,status,expected
+Duplicate match IDs,0,PASS,PASS
+Duplicate map records,0,PASS,PASS
+Duplicate player-map records,0,PASS,PASS
+Duplicate round records,0,PASS,PASS
+Matches with unknown team 0,0,PASS,PASS
+Matches with unknown team 1,0,PASS,PASS
+Player records without a dimension match,0,PASS,PASS
+Map records without a dimension match,58,CHECK,PASS
+Matches with missing date keys,0,PASS,PASS
+Player records with missing ratings,8530,CHECK,PASS
+Map records with negative scores,0,PASS,PASS

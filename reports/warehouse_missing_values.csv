@@ -1,0 +1,9 @@
+table_name,column_name,missing_count
+fact_match,match_id,0
+fact_match,date_key,0
+fact_match,team0_id,14
+fact_match,team1_id,14
+fact_map,map_key,58
+fact_player_map,player_id,0
+fact_player_map,rating,8530
+fact_round,winner_team,0

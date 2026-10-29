@@ -1,0 +1,10 @@
+table_name,row_count
+dim_team,229
+dim_player,1243
+dim_map,13
+dim_event,114
+dim_date,807
+fact_match,2952
+fact_map,7464
+fact_player_map,74176
+fact_round,156938

@@ -1,0 +1,11 @@
+schema,table_name,table_type
+main,feed_fill_meta,BASE TABLE
+main,kill_matrix,BASE TABLE
+main,maps,BASE TABLE
+main,matches,BASE TABLE
+main,notables,BASE TABLE
+main,player_map,BASE TABLE
+main,players,BASE TABLE
+main,rounds,BASE TABLE
+main,stat_source,BASE TABLE
+main,teams,BASE TABLE
